@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "My React.js Journey: An Angular Developer's Perspective"
 ---
 
