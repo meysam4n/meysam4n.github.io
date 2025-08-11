@@ -1,4 +1,8 @@
-# My React.js Journey: An Angular Developer's Perspective
+---
+layout: default
+title: "My React.js Journey: An Angular Developer's Perspective"
+---
+
 
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3wzfl9rm2dnds1m2oc36.png)
 
